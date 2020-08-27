@@ -34,9 +34,9 @@ To find recommended movie, click "Our Recommend".
 Watching demo in the above, you would understand easily.
 
 ## Tools
-・PHP version 7.4
-・Bootstrap
-・MYSQL
+・PHP version 7.4  
+・Bootstrap  
+・MYSQL  
 
 ## Other
 Test user ID : user
