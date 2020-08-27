@@ -7,12 +7,19 @@ http://spc96889.sub.jp/
 
 ## Description
 -User and admin Login
+
 -User signup
+
 -Post review and comment to movie
+
 -Reply to other reviewer's review
+
 -Edit and delete review (signup user only)
+
 -Display user's review list (singup user only)
+
 -Find recommened movie
+
 -Using memcached as session strage
 
 ## Demo
@@ -21,9 +28,13 @@ http://spc96889.sub.jp/
 
 ## Usage
 Click the "Start Review" in the top page, then you can start review.
+
 Or, you can search by release year by clicking movie list in navbar.
-If you want to edit or delete your review, click the "My comment in navbar.
-To find recommended movie, click "Our Recommend.
+
+If you want to edit or delete your review, click the "My comment" in navbar.
+
+To find recommended movie, click "Our Recommend".
+
 Watching demo in the above, you would understand easily.
 
 ## Tools
@@ -34,8 +45,6 @@ Watching demo in the above, you would understand easily.
 ## Other
 Test user ID : user
 Test password : user
-
-Input them in login page.
 
 ## Licence
 [MIT]
